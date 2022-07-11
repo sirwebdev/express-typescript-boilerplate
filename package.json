@@ -1,0 +1,31 @@
+{
+  "name": "nodejs-typescript-boilerplate",
+  "version": "1.0.0",
+  "description": "An repository to create a NodeJS + Express + Typescript boilerplate for made my backend creations more productivy =)",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.30.6",
+    "@typescript-eslint/parser": "^5.30.6",
+    "eslint": "^8.19.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-import-resolver-typescript": "^3.2.5",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-import-helpers": "^1.2.1",
+    "typescript": "^4.7.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martins20/nodejs-typescript-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martins20/nodejs-typescript-boilerplate/issues"
+  },
+  "homepage": "https://github.com/martins20/nodejs-typescript-boilerplate#readme"
+}
